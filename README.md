@@ -5,7 +5,6 @@
 <!--
 **hakcat/hakcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on ... Studying
 - 🌱 I’m currently learning ... Communication Engineering
 - 👯 I’m looking to collaborate on ... ineresting problems in applied engineering
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...aravindalokam.com
 - 😄 Pronouns: ... Hakcat 007
 - ⚡ Fun fact: ... Will update...
+
+-->
+- 👩‍🎓 I'm currently studying Electrical Engineering at the Indian Institute of Technology (IIT), at Kanpur.
+- 🕵️‍♀️ I specialise in Signal Processing and Communication Engineering probblems.
+- 💬 Ask me about ...Electronic gadgets, rooting, custom roms, etc..
+- ⚡ Fun fact: I'm an INTJ.  At times I develop OCD 👨‍🦱😶
+- 
