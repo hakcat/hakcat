@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🕵️‍♀️ I specialise in Signal Processing and Communication Engineering probblems.
 - 💬 Ask me about ...Electronic gadgets, rooting, custom roms, etc..
 - ⚡ Fun fact: I'm an INTJ.  At times I develop OCD 👨‍🦱😶
+- Resume at: https://drive.google.com/file/d/1uaLT4yx4c-BAhiBfEUEuvrRZ6_ApfjgT/view?usp=sharing
