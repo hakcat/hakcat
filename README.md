@@ -1,6 +1,6 @@
-### Hi there 👋
+### Howdy 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hakcat&show_icons=true&hide_border=true">
+
 
 <!--
 **hakcat/hakcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Hakcat 007
 - ⚡ Fun fact: ... Will update...
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hakcat&show_icons=true&hide_border=true">
+
 -->
-- 👩‍🎓 I'm currently studying Electrical Engineering at the Indian Institute of Technology (IIT), at Kanpur.
-- 🕵️‍♀️ I specialise in Signal Processing and Communication Engineering probblems.
-- 💬 Ask me about ...Electronic gadgets, rooting, custom roms, etc..
-- ⚡ Fun fact: I'm an INTJ.  At times I develop OCD 👨‍🦱😶
-- Resume at: https://drive.google.com/file/d/1uaLT4yx4c-BAhiBfEUEuvrRZ6_ApfjgT/view?usp=sharing
+- 🕵️‍♀️ This is where I save (fork) other's work primarily for my reference, because I'd always like to learn.
+- 🔭 About me, what I do, my Curriculum Vitae, everything put on my website at hakcat.github.io or aravindalokam.com.
+- 💬 Please do reach out to me for any collaboration. I'm always happy to interact and exchange ideas!
